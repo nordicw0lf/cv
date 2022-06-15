@@ -1,0 +1,27 @@
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  font-family: 'MutatorSans';
+  color: #808000;
+}
+
+h2 {
+  font-size: 20px;
+  font-family: serif;
+  color: #808000;
+}
+
+h3 {
+  font-size: 20px;
+  font-family: monospace;
+  color: #808000;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: #808000;
+  border-width: 2px;
+}
